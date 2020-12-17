@@ -4,8 +4,6 @@
 
 <!-- TODO: Change links when you upload video -->
 
-<!-- ##### Watch the full tutorial on [Youtube](https://youtu.be/YGCDAXFWAZo)!  -->
-##### Tutorial coming soon! [Subscribe](https://www.youtube.com/channel/UCbwsS1m4Hib6R-9F1alus_A) to get notified when it is released.
 
 ---
 
